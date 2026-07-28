@@ -4,7 +4,7 @@ A simple Bash script to analyze basic Linux server performance.
 
 ## Project URL
 
-https://github.com/muneebshafiq23/scripting
+https://github.com/muneebshafiq23/scripting/tree/main
 
 ## Features
 
